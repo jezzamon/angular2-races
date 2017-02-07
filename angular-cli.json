@@ -9,6 +9,9 @@
       "outDir": "dist",
       "assets": [
         "assets",
+				"images",
+				"styles.css",
+				"app/races.json",
         "favicon.ico"
       ],
       "index": "index.html",
