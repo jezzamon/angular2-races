@@ -88,6 +88,10 @@ h2 {
   margin: 0 0;
 }
 
+.race-info h3 a {
+  color: white;
+}
+
 .race-info, .race-info tbody, .race-info tr, .race-info td {
   width: 100%;
 }
